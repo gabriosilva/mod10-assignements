@@ -153,25 +153,25 @@ Devido a restrições operacionais do Filterbox e à necessidade de um cadastro 
 #### Resultados
 
 ##### Teste com Imagens de Carros
-![Carros](/pictures/cars.jpg)
+![Carros](pictures/cars.jpg)
 - **Descrição do Teste:** Uma imagem aérea mostrando 27 carros de diferentes cores.
 - **Resultados Obtidos:** Detectou 6 carros, classificando-os como veículos de brinquedo e, em alguns casos, simplesmente como "brinquedo". Não identificou todos os carros corretamente nem classificou seus tipos exatos.
 - 
-![Carros Resultado](/pictures/cars-results.png)
+![Carros Resultado](pictures/cars-results.png)
 
 ##### Teste com Imagens de Cachorros
-![Cachorros](/pictures/dogs.jpg)
+![Cachorros](pictures/dogs.jpg)
 - **Descrição do Teste:** Uma imagem contendo 9 cachorros de diversas raças e cores.
 - **Resultados Obtidos:** Identificou 5 dos 9 cachorros, classificando todos corretamente como "cachorro".
 
-![Cachorros Resultado](/pictures/dogs-results.png)
+![Cachorros Resultado](pictures/dogs-results.png)
 
 ##### Teste com Imagens de Chihuahuas e Muffins
-![Chiuauas](/pictures/chiuauas.jpeg)
+![Chiuauas](pictures/chiuauas.jpeg)
 - **Descrição do Teste:** Uma imagem dividida em 16 blocos, incluindo 8 blocos de chihuahuas e 8 blocos de muffins.
 - **Resultados Obtidos:** Corretamente identificou 5 chihuahuas e 3 muffins, classificando-os como "Chihuahua", "Cachorro" ou "Animal", e "Muffin", respectivamente.
 
-![Chiuauas Resultado](/pictures/chiuauas-results.png)
+![Chiuauas Resultado](pictures/chiuauas-results.png)
 
 #### Conclusão
 
