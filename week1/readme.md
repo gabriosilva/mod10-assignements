@@ -13,7 +13,7 @@ Vários componentes são substanciais para a aplicação eficiente e precisa dos
 Computadores são indispensáveis na visão computacional, servindo como pilares centrais para a execução de softwares avançados, visualização de imagens, e aplicação de algoritmos de processamento e redes neurais.
 
 ##### Armazenamento
-O armazenamento é vital devido à diversidade em tamanho, resolução, formato e compressão das imagens. Levando em conta também o machine learning e o Deep Learning, o volume imenso de dados necessários para treinamento, junto às características únicas de cada imagem, levam a exigência um sistema de armazenamento sólido. Este deve garantir a integridade dos dados de forma consistente, segura e acessível. Exemplos de soluções de armazenamento incluem bancos de dados baseados em objetos, plataformas de cloud storage e serviços de armazenamento em arquivo.
+O armazenamento é vital devido à diversidade em tamanho, resolução, formato e compressão das imagens. Levando em conta também o machine learning e o Deep Learning, o volume imenso de dados necessários para treinamento, junto às características únicas de cada imagem, levam a exigência de um sistema de armazenamento sólido. Este deve garantir a integridade dos dados de forma consistente, segura e acessível. Exemplos de soluções de armazenamento incluem bancos de dados baseados em objetos, plataformas de cloud storage e serviços de armazenamento em arquivo.
 
 
 ##### Imagens
