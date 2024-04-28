@@ -12,6 +12,7 @@ Para executar este projeto, você precisa ter o Python instalado no seu sistema,
 - OpenCV
 - NumPy
 - pandas
+- pillow
 
 Você pode instalar todas as bibliotecas necessárias usando o seguinte comando: `pip install -r requirements.txt`
 A versão python utilizada foi 3.12.3
