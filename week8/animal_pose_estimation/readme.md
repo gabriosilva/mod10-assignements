@@ -4,6 +4,8 @@
 
 This project implements pose estimation for cattle using the ANIMAL-POSE DATASET. The steps involved include dataset acquisition, exploratory analysis, image processing and filtering, model training, and result analysis.
 
+A more detailed description was provided in the assignment notebook file. The steps involved in the image processing and filtering, alongside the required diagrams, were included in the notebook, at the `Augmentation / Processing Pipeline` section. Please refer to the notebook for more details.
+
 ### Table of Contents
 1. [Dataset Acquisition and Exploratory Analysis](#dataset-acquisition-and-exploratory-analysis)
 2. [Image Processing and Filtering](#image-processing-and-filtering)
